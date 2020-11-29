@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\3D Render Test\obj\Debug\3D Render Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\3D Render Test\obj\Debug\_3D_Render_Test.Form1.resources
+C:\Users\User\source\repos\3D Render Test\obj\Debug\_3D_Render_Test.Properties.Resources.resources
+C:\Users\User\source\repos\3D Render Test\obj\Debug\3D Render Test.csproj.GenerateResource.cache
+C:\Users\User\source\repos\3D Render Test\obj\Debug\3D Render Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3D Render Test\bin\Debug\3D Render Test.exe.config
+C:\Users\User\source\repos\3D Render Test\bin\Debug\3D Render Test.exe
+C:\Users\User\source\repos\3D Render Test\bin\Debug\3D Render Test.pdb
+C:\Users\User\source\repos\3D Render Test\obj\Debug\3D Render Test.exe
+C:\Users\User\source\repos\3D Render Test\obj\Debug\3D Render Test.pdb
